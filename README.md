@@ -1,0 +1,1 @@
+# ts-react-tslint-prettier-fp
