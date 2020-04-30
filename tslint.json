@@ -1,0 +1,8 @@
+{
+  "extends": ["tslint:latest", "tslint-react", "tslint-plugin-prettier","tslint-config-prettier"],
+  "rules": {
+    "prettier": [true, { "tabWidth": 4, "singleQuote": true }],
+    "jsx-wrap-multiline": false,
+    "no-submodule-imports": false
+  }
+}
